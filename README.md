@@ -8,31 +8,14 @@
 </p>
 
 ![I am IT Undergraduate](https://wallpapercave.com/wp/wp10393294.jpg)
-![I am IT Undergraduate](https://i.ytimg.com/vi/EdvOApI2PDo/maxresdefault.jpg)
-
-### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
-
-
 
 This is My Github
 
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C# / C++ / PYTHON / PHP 
 
-- 🔭 I’m currently working on  SLIIT 
+- 🔭 I’m currently studing  at  SLIIT 
 - 🌱 I’m currently learning Information Technology 
-- 📫 How to reach me: sachindileepa41@gmail.com 
+- 📫 How to reach me: ashinirangodage@gmail.com 
 
 
 ## My Skill Set  
@@ -120,7 +103,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 ## 🚀 Frameworks...
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaChInD99)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshiRangodage)  
 
 
 
@@ -128,23 +111,23 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 <p align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaChInD99" alt="g3root" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshiRangodage" alt="g3root" /></a> </p>
 </p>
 
 ## Github Stats 
 
 <p align="center">
-  <a href="https://github.com/SaChInD99/github-readme-stats">
+  <a href="https://github.com/AshiRangodage/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaChInD99&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiRangodage&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/SaChInD99/github-readme-stats">
+  <a href="https://github.com/AshiRangodage/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=SaChInD99&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=AshiRangodage&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
     />
   </a>
 </p>
@@ -165,12 +148,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / JQery / C#
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaChInD99)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshiRangodage)  
 
-![GitHub metrics](https://metrics.lecoq.io/SaChInD99)  
+![GitHub metrics](https://metrics.lecoq.io/AshiRangodage)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaChInD99&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshiRangodage&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
 
-![Profile views](https://gpvc.arturio.dev/SaChInD99) 
+![Profile views](https://gpvc.arturio.dev/AshiRangodage) 
